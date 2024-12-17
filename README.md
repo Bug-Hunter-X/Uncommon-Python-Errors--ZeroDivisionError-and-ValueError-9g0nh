@@ -1,0 +1,1 @@
+This repository demonstrates a Python function that can produce two uncommon errors. The `ZeroDivisionError` occurs when input x is 0. The ValueError arises from trying to compute the square root of a negative number. The solution focuses on robust error handling and preventing these exceptions using checks and alternative calculations.
